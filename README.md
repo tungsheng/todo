@@ -1,9 +1,9 @@
-# react-firebase-todo
+# todo
 
 ## Installation
 
 - `git clone [this project]
-- `cd react-firebase-todo`
+- `cd todo`
 - `npm install`
 - `npm start`
 - visit http://localhost:3000/
